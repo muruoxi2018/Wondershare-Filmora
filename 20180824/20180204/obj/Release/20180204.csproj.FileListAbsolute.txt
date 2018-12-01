@@ -1,0 +1,10 @@
+E:\C#\万兴神剪手\20180824\20180204\bin\Release\20180204.exe.config
+E:\C#\万兴神剪手\20180824\20180204\bin\Release\20180204.exe
+E:\C#\万兴神剪手\20180824\20180204\bin\Release\20180204.pdb
+E:\C#\万兴神剪手\20180824\20180204\obj\Release\20180204.csprojResolveAssemblyReference.cache
+E:\C#\万兴神剪手\20180824\20180204\obj\Release\_20180204.Form1.resources
+E:\C#\万兴神剪手\20180824\20180204\obj\Release\_20180204.Properties.Resources.resources
+E:\C#\万兴神剪手\20180824\20180204\obj\Release\20180204.csproj.GenerateResource.Cache
+E:\C#\万兴神剪手\20180824\20180204\obj\Release\20180204.csproj.CoreCompileInputs.cache
+E:\C#\万兴神剪手\20180824\20180204\obj\Release\20180204.exe
+E:\C#\万兴神剪手\20180824\20180204\obj\Release\20180204.pdb

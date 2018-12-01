@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AgileDotNet Version="6.4.0.31" Time="2018-8-24 17:50:04">
+  <Module N="20180204, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <Type N="&lt;Module&gt;" />
+    <Type N="_20180204.Form1">
+      <Method N="Void .ctor()" />
+      <Method N="Void linkLabel1_LinkClicked(Object sender, System.Windows.Forms.LinkLabelLinkClickedEventArgs e)" ON="rRM=" />
+      <Method N="Void button1_Click(Object sender, System.EventArgs e)" ON="rhM=" />
+      <Method N="Void Form1_KeyPress(Object sender, System.Windows.Forms.KeyPressEventArgs e)" ON="rxM=" />
+      <Method N="Void label5_Click(Object sender, System.EventArgs e)" ON="sBM=" />
+      <Method N="Void Form1_MouseDown(Object sender, System.Windows.Forms.MouseEventArgs e)" ON="sRM=" />
+      <Method N="Void Form1_MouseUp(Object sender, System.Windows.Forms.MouseEventArgs e)" ON="shM=" />
+      <Method N="Void Form1_MouseMove(Object sender, System.Windows.Forms.MouseEventArgs e)" ON="sxM=" />
+      <Method N="Void Dispose(Boolean disposing)" />
+      <Method N="Void InitializeComponent()" ON="tBM=" />
+      <Field N="beginMove" ON="oRM=" />
+      <Field N="currentXPosition" ON="ohM=" />
+      <Field N="currentYPosition" ON="oxM=" />
+      <Field N="components" ON="pBM=" />
+      <Field N="pictureBox1" ON="pRM=" />
+      <Field N="label1" ON="phM=" />
+      <Field N="label2" ON="pxM=" />
+      <Field N="linkLabel1" ON="qBM=" />
+      <Field N="label3" ON="qRM=" />
+      <Field N="label4" ON="qhM=" />
+      <Field N="button1" ON="qxM=" />
+      <Field N="label5" ON="rBM=" />
+    </Type>
+    <Type N="_20180204.Program" ON="thM=.tRM=">
+      <Method N="Void Main()" ON="txM=" />
+    </Type>
+    <Type N="_20180204.Properties.Resources" ON="uRM=.uBM=">
+      <Property N="ResourceManager" ON="vRM=">
+        <Getter N="System.Resources.ResourceManager get_ResourceManager()" ON="vBM=" />
+      </Property>
+      <Property N="Culture" ON="wBM=">
+        <Getter N="System.Globalization.CultureInfo get_Culture()" ON="vhM=" />
+        <Setter N="Void set_Culture(System.Globalization.CultureInfo value)" ON="vxM=" />
+      </Property>
+      <Property N="WizModernImage_jp" ON="whM=">
+        <Getter N="System.Drawing.Bitmap get_WizModernImage_jp()" ON="wRM=" />
+      </Property>
+      <Method N="Void .ctor()" />
+      <Field N="resourceMan" ON="uhM=" />
+      <Field N="resourceCulture" ON="uxM=" />
+    </Type>
+    <Type N="_20180204.Properties.Settings">
+      <Method N="Void .ctor()" />
+      <Method N="Void .cctor()" />
+    </Type>
+    <Type N="_20180204.Form1+var">
+      <Method N="Void .ctor()" />
+    </Type>
+    <Type N="SecureTeam.Attributes.ObfuscatedByAgileDotNetAttribute">
+      <Method N="Void .ctor()" />
+    </Type>
+  </Module>
+</AgileDotNet>
